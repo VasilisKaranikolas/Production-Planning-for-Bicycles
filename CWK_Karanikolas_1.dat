@@ -1,0 +1,46 @@
+param p := 2;
+
+set T := MOUNTAIN TOURING CITY ;
+
+param C :=
+MOUNTAIN 60
+TOURING 45
+CITY 50
+;
+
+param MH :=
+MOUNTAIN 12
+TOURING 10
+CITY 8
+;
+
+param AH :=
+MOUNTAIN 4
+TOURING 3
+CITY 3
+;
+
+param SI :=
+MOUNTAIN 15
+TOURING 25
+CITY 20
+;
+
+param FI := 
+MOUNTAIN 30
+TOURING 40
+CITY 25
+;
+
+param LU := 8000;
+param LV := 1000;
+param HC := 0.04;
+
+param D :=
+MOUNTAIN 1 150
+MOUNTAIN 2 200
+TOURING 1 125
+TOURING 2 150
+CITY 1 300
+CITY 2 350
+;

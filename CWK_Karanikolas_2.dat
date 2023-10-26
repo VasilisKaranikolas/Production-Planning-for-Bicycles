@@ -1,0 +1,42 @@
+param p := 4;
+
+set T := MOUNTAIN CITY ;
+
+param C :=
+MOUNTAIN 60
+CITY 50
+;
+
+param MH :=
+MOUNTAIN 12
+CITY 9
+;
+
+param AH :=
+MOUNTAIN 4
+CITY 2
+;
+
+param SI :=
+MOUNTAIN 10
+CITY 30
+;
+
+param FI := 
+MOUNTAIN 25
+CITY 25
+;
+param LU := 3000;
+param LV := 200;
+param HC := 0.02;
+
+param D :=
+MOUNTAIN 1 100
+MOUNTAIN 2 120
+MOUNTAIN 3 50
+MOUNTAIN 4 90
+CITY 1 125
+CITY 2 150
+CITY 3 140
+CITY 4 160
+;

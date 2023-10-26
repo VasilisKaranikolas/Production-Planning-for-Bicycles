@@ -1,0 +1,39 @@
+param p := 2;
+
+set T := MOUNTAIN TOURING ;
+
+param C :=
+MOUNTAIN 60
+TOURING 45
+;
+
+param MH :=
+MOUNTAIN 12
+TOURING 10
+;
+
+param AH :=
+MOUNTAIN 4
+TOURING 3
+;
+
+param SI :=
+MOUNTAIN 15
+TOURING 25
+;
+
+param FI := 
+MOUNTAIN 25
+TOURING 25
+;
+
+param LU := 4000;
+param LV := 500;
+param HC := 0.03;
+
+param D :=
+MOUNTAIN 1 150
+MOUNTAIN 2 200
+TOURING 1 125
+TOURING 2 150
+;

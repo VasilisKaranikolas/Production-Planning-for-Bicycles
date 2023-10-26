@@ -1,0 +1,1 @@
+I've completed the concrete model of the project description and furthermore I've created an abstract model which can be feeded with .dat files with data differentiation.
